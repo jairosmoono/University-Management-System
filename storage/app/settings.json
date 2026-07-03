@@ -1,0 +1,28 @@
+{
+    "university_name": "Kalabo Trades Training Institute",
+    "university_short_name": "KTTI",
+    "university_email": "kalabotrades@gmail.com",
+    "university_phone": "0967155022",
+    "university_address": "kalabo",
+    "university_city": "western",
+    "university_country": "Zambia",
+    "university_website": "https:\/\/kalabotrades.edu.zm",
+    "currency_symbol": "K",
+    "currency_code": "ZMW",
+    "library_fine_rate": "5",
+    "registration_open": true,
+    "logo_path": "branding\/logo.png",
+    "favicon_path": "branding\/favicon.png",
+    "course_types": [
+        "lab",
+        "practical",
+        "theory"
+    ],
+    "hero_images": [
+        "hero\/Yr3TQ5tEnyxCur1RJu14w4k2CirWQyTgqEsQEefr.jpg",
+        "hero\/cou2skqr97zReskmHDTpxQ2WEp1aHTcHo1xHWRng.webp",
+        "hero\/41HQIA1Z42oAkr49IlozM7fRw39JIvBT1fF1b5Bj.jpg"
+    ],
+    "maintenance_mode": false,
+    "admissions_open": true
+}
